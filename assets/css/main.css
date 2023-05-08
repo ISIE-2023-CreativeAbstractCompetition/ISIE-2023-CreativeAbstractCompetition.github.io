@@ -246,8 +246,8 @@ h6 {
   width: 1px;
   height: 100%;
   transform: translateY(-100%);
-  animation: linemove 1200ms linear 0s infinite;
-  animation-delay: 2000ms;
+  animation: linemove 200ms linear 0s infinite;
+  animation-delay: 200ms;
 }
 
 #preloader.loaded .line {
