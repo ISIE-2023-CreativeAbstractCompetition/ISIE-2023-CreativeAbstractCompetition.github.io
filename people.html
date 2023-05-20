@@ -28,6 +28,9 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/main.css" rel="stylesheet">
 
+  <!-- Custom CSS -->
+  <link href="assets/css/style.css" rel="stylesheet">
+
 </head>
 
 <body>
@@ -37,16 +40,14 @@
     <div class="container-fluid d-flex align-items-center justify-content-between">
 
       <a href="index.html" class="logo d-flex align-items-center  me-auto me-lg-0">
-        <!-- Uncomment the line below if you also wish to use an image logo -->
         <img src="assets/img/logo.jpg" alt="">
-        <!-- <i class="bi bi-camera"></i> -->
-        <h2>Creative Abstract Competition - ISIE 2023</h2>
+        <h1>Creative Abstract Competition @ ISIE 2023</h1>
       </a>
 
       <nav id="navbar" class="navbar">
         <ul>
           <li><a href="index.html">Home</a></li>
-          <li><a href="about.html" class="active">About</a></li>
+          <li><a href="about.html">About</a></li>
           <li class="dropdown"><a href="#"><span>View entries</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
             <ul>
               <li><a href="gallery.html">ALL</a></li>
@@ -55,7 +56,7 @@
               <li><a href="gallery.html">Audio</a></li>
               <li><a href="gallery.html">Video</a></li>
               <li><a href="gallery.html">Physical</a></li>
-           <!--    <li class="dropdown"><a href="#"><span>Sub Menu</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
+            <!--    <li class="dropdown"><a href="#"><span>Sub Menu</span> <i class="bi bi-chevron-down dropdown-indicator"></i></a>
                 <ul>
                   <li><a href="#">Sub Menu 1</a></li>
                   <li><a href="#">Sub Menu 2</a></li>
@@ -65,30 +66,33 @@
             </ul>
           </li>
           <li><a href="submit.html">Submit</a></li>
-          <li><a href="people.html">People</a></li>
+          <li><a href="people.html" class="active">People</a></li>
 
         </ul>
       </nav><!-- .navbar -->
 
       <!-- <div class="header-social-links">
         <a href="#" class="github"><i class="bi bi-github"></i></a>
-        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a> -->
-      </div>
+        <a href="#" class="linkedin"><i class="bi bi-linkedin"></i></i></a> --> 
+       </div>
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
       <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
 
     </div>
+  </div>
+
+    </div>
   </header><!-- End Header -->
 
-  <main id="main" data-aos="fade" data-aos-delay="200">
+  <main id="main" class="d-flex align-items-center flex-column" data-aos="fade" data-aos-delay="200">
 
     <!-- ======= End Page Header ======= -->
     <div class="page-header d-flex align-items-center">
       <div class="container position-relative">
         <div class="row d-flex justify-content-center">
-          <div class="col-lg-6 text-center">
-            <h2>Meet the team</h2>
-            <p></p>
+          <div class="col-lg-12 text-center">
+            <h1>Meet the team</h1>
+            <p>blah blah blah blah</p>
 
 
           </div>
@@ -97,42 +101,74 @@
     </div><!-- End Page Header -->
 
     <!-- ======= Team Section ======= -->
-    <section id="team">
-      <div class="team-grid"></div>
-        <div class="team-member">
-          <img src="assets/img/people/catrin.jpg" alt="Catrin Böcher" style="width:200; height:250;">
-          <h3>Catrin Böcher</h3>
-          <p>PhD candidate</p>
+    <section id="people" class="people d-flex justify-content-center">
+      <div class="container">
+
+        <div class="row">
+
+          <div class="col-lg-12">
+            <div class="section-title" data-aos="fade-up">
+            </div>
+          </div>
+
         </div>
-        <div class="team-member">
-          <img src="assets/img/people/hazem.jpg" alt="Hazem Eltohamy" style="width:200; height:250;">
-          <h3>Hazem Eltohamy</h3>
-          <p>PhD candidate</p>
+
+        <div class="row">
+
+          <div class="col-lg-12">
+            <div class="people-grid">
+
+              <div class="people-item" data-aos="fade-up">
+                <div class="text-center">
+                  <img src="assets/img/people/catrin.jpg" alt="Catrin Böcher">
+                  <figcaption class="people-name">Catrin Böcher</figcaption>
+                </div>
+              </div>
+
+              <div class="people-item" data-aos="fade-up" data-aos-delay="100">
+                <div class="text-center">
+                  <img src="assets/img/people/hazem.jpg" alt="Hazem Eltohamy">
+                  <figcaption class="people-name">Hazem Eltohamy</figcaption>
+                </div>
+              </div>
+
+              <div class="people-item" data-aos="fade-up" data-aos-delay="200">
+                <div class="text-center">
+                  <img src="assets/img/people/ili.jpg" alt="Iliane Andringa">
+                  <figcaption class="people-name">Iliane Andringa</figcaption>
+                </div>
+              </div>
+
+              <div class="people-item" data-aos="fade-up" data-aos-delay="300">
+                <div class="text-center">
+                  <img src="assets/img/people/maarten.jpg" alt="Maarten Koese">
+                  <figcaption class="people-name">Maarten Koese</figcaption>
+                </div>
+              </div>
+
+              <div class="people-item" data-aos="fade-up" data-aos-delay="400">
+                <div class="text-center">
+                  <img src="assets/img/people/steph.jpg" alt="Stephanie Cap">
+                  <figcaption class="people-name">Stephanie Cap</figcaption>
+                </div>
+              </div>
+
+              <div class="people-item" data-aos="fade-up" data-aos-delay="500">
+                <div class="text-center">
+                  <img src="assets/img/people/stew.jpg" alt="Stewart McDowall">
+                  <figcaption class="people-name">Stewart McDowall</figcaption>
+                </div>
+              </div>
+
+            </div>
+          </div>
+
         </div>
-        <div class="team-member">
-          <img src="assets/img/people/ili.jpg" alt="Iliane Andringa" style="width:200; height:250;">
-          <h3>Iliane Andringa</h3>
-          <p>Education and research staff member</p>
-        </div>
-        <div class="team-member">
-          <img src="assets/img/people/maarten.jpg" alt="Maarten Koese" style="width:200; height:250;">
-          <h3>Maarten Koese</h3>
-          <p>PhD candidate</p>
-        </div>
-              <div class="team-member">
-          <img src="assets/img/people/steph.jpg" alt="Stephanie Cap" style="width:200; height:250;">
-          <h3>Stephanie Cap</h3>
-          <p>PhD candidate</p>
-        </div>
-        <div class="team-member">
-          <img src="assets/img/people/stew.jpg" alt="Stewart McDowall"  style="width:200; height:250;">
-          <h3>Stewart McDowall</h3>
-          <p>PhD candidate</p>
-        </div>
+
       </div>
-
-
     </section>
+    <!-- End People Section -->
+
     
     <!-- End meet the team Section -->
 
@@ -162,3 +198,6 @@
 </body>
 
 </html>
+
+
+
