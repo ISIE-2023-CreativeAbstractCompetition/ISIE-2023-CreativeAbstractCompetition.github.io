@@ -74,12 +74,12 @@ for row in rows:
         htmlfile.write(html)
     
 
+# Add all changes to the staging area
+os.system('git add .')
 
+# Commit the changes with a commit message
+os.system('git commit -m "new submissions"')
 
-            # name = row['Name']
-            # link = row['Link']
-            # print(f"Name: {name}, Link: {link}")
+# Push the changes to the remote repository
+os.system('git push')
 
-
-
-#%%
