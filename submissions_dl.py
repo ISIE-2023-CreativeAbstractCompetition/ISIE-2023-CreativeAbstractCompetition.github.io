@@ -26,7 +26,7 @@ template = """
     <title>{title}</title>
 
 </head>
-<body class="col-lg-10 text-center style=background-color:black">
+<body class="col-lg-10 text-center" style="background-color:black">
     <h1>{title}</h1>
     <h2>{name}</h2>
     <h4><strong>Institution:</strong> {institution}</h4>
