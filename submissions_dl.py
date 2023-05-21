@@ -26,14 +26,14 @@ template = """
     <title>{title}</title>
 
 </head>
-<body class="col-lg-10 text-center" style="background-color:black color=white">
-    <h1>{title}</h1>
-    <h2>{name}</h2>
-    <h4><strong>Institution:</strong> {institution}</h4>
-    <h4><strong>Description:</strong> {description}</h4>
+<body class="col-lg-10 text-center" style="background-color:rgba(0, 0, 0, 0.87)>
+    <h1 style="color:white">{title}</h1>
+    <h2 style="color:white">{name}</h2>
+    <h4 style="color:white"><strong>Institution:</strong> {institution}</h4>
+    <h4 style="color:white"><strong>Description:</strong> {description}</h4>
     <img src="{image}" alt="{title}" style="box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.5); padding: 10px;">
-    <h4><strong>Abstract:</strong><h4>
-    <p>{abstract}</p>
+    <h4 style="color:white"><strong>Abstract:</strong><h4>
+    <p style="color:white">{abstract}</p>
 </body>
 </html>
 """
