@@ -8,7 +8,6 @@ import csv
 url = 'https://docs.google.com/forms/u/0/d/1GBjuJ3TiFvKU0wa4_NWwCE2Hvo3h9x1X3A_-6bCiRw0/downloadresponses?tz_offset=7200000&sort_by_timestamp=true'
 response = requests.get(url)
 
-
 ZIP = "Creative Abstract Competition - ISIE 2023 - Submission form.csv"
 
 with zipfile.ZipFile(io.BytesIO(response.content)) as zip_file:

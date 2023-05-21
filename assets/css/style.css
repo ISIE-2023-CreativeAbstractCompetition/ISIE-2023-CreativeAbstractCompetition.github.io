@@ -30,7 +30,7 @@
   .navbar, .navbar-inverse {
 	border-radius: 0;
 	border: none;
-	margin-bottom: 0;
+	margin-bottom: 50;
 	min-height: 80px;
 }
 
@@ -44,7 +44,7 @@
 	font-family: Lato;
 	font-size: 1.7em;
 	font-weight: 300;
-	padding: 30px 25px 33px 25px;
+	padding: 30px 25px 25px px;
 }
 
 .navbar-inverse .navbar-nav li a:hover {
