@@ -17,25 +17,23 @@ with zipfile.ZipFile(io.BytesIO(response.content)) as zip_file:
 
 #%%
 # Define the HTML template
-template = """
+template = """"
 <!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8">
+    <link href="assets/css/main.css" rel="stylesheet">
     <title>{title}</title>
+
 </head>
-<body>
+<body class="col-lg-10 text-center">
     <h1>{title}</h1>
     <h2>{name}</h2>
-    <img src="{image}" alt="{title}">
-    <ul>
-        <li><strong>Category:</strong> {category}</li>
-        <li><strong>Institution:</strong> {institution}</li>
-        <li><strong>Description:</strong> {description}</li>
-        <li><strong>Abstract:</strong> {abstract}</li>
-        <li><strong>Email:</strong> {email}</li>
-        <li><strong>Time:</strong> {time}</li>
-    </ul>
+    <h4><strong>Institution:</strong> {institution}</h4>
+    <h4><strong>Description:</strong> {description}</h4>
+    <img src="{image}" alt="{title}" style="box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.5); padding: 10px;">
+    <h4><strong>Abstract:</strong><h4>
+    <p>{abstract}</p>
 </body>
 </html>
 """
