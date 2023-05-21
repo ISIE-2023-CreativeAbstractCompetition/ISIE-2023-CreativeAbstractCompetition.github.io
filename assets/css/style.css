@@ -52,3 +52,18 @@
 	transition: 0.7s all linear;
 	height: 100%;
 }
+
+.dots {
+  display: inline-block;
+  color: #ffffff;
+  margin-left: 6em;
+  font-size: 0.9em;
+}
+
+
+.dots li::before {
+  content: " o  ";
+  color: var(--color-tertiary);
+  margin-right: 0.5em;
+  
+}
