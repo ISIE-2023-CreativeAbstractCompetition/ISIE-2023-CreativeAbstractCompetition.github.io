@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   inkscape:export-ydpi="200"
+   inkscape:export-xdpi="200"
+   inkscape:export-filename="/home/stew/code/gh/ISIE/ISIE-2023-CreativeAbstractCompetition.github.io/assets/img/logo-col.png"
+   sodipodi:docname="logo-col-alt.png.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   id="svg5"
+   version="1.1"
+   viewBox="0 0 165.42824 71.762695"
+   height="71.762695mm"
+   width="165.42824mm"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="false"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:zoom="1.641885"
+     inkscape:cx="252.14921"
+     inkscape:cy="102.32142"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showborder="false" />
+  <defs
+     id="defs2">
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209223"
+       x="-0.019092944"
+       y="-0.016733098"
+       width="1.0380661"
+       height="1.0334662">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209217" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209219" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209221" />
+    </filter>
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209231"
+       x="-0.014401083"
+       y="-0.014713289"
+       width="1.0288019"
+       height="1.0297307">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209225" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209227" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209229" />
+    </filter>
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209239"
+       x="-0.024887617"
+       y="-0.049134729"
+       width="1.049777"
+       height="1.0988927">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209233" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209235" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209237" />
+    </filter>
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209247"
+       x="-0.35282667"
+       y="-0.35282667"
+       width="1.7056533"
+       height="1.7056533">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209241" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209243" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209245" />
+    </filter>
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209255"
+       x="-0.35282667"
+       y="-0.35282667"
+       width="1.7056533"
+       height="1.7056533">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209249" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209251" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209253" />
+    </filter>
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209263"
+       x="-0.1877107"
+       y="-0.21211087"
+       width="1.3754214"
+       height="1.4242217">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209257" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209259" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209261" />
+    </filter>
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209271"
+       x="-0.13838753"
+       y="-0.34668376"
+       width="1.2767751"
+       height="1.6948812">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209265" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209267" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209269" />
+    </filter>
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209279"
+       x="-0.04134221"
+       y="-0.042650838"
+       width="1.0826844"
+       height="1.0853017">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209273" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209275" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209277" />
+    </filter>
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209287"
+       x="-0.048030738"
+       y="-0.048317223"
+       width="1.0960615"
+       height="1.0966344">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209281" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209283" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209285" />
+    </filter>
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209295"
+       x="-0.10602213"
+       y="-0.06799061"
+       width="1.2120443"
+       height="1.1359812">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209289" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209291" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209293" />
+    </filter>
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209303"
+       x="-0.079386145"
+       y="-0.081481439"
+       width="1.1587761"
+       height="1.1629629">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209297" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209299" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209301" />
+    </filter>
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209311"
+       x="-0.091140013"
+       y="-0.27368447"
+       width="1.18228"
+       height="1.5474757">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209305" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209307" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209309" />
+    </filter>
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209319"
+       x="-0.099452127"
+       y="-0.23862461"
+       width="1.1989043"
+       height="1.4770735">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209313" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209315" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209317" />
+    </filter>
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209327"
+       x="-0.084433737"
+       y="-0.21804592"
+       width="1.1688675"
+       height="1.4345681">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209321" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209323" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209325" />
+    </filter>
+    <filter
+       inkscape:label="Fluorescence"
+       inkscape:menu="Color"
+       inkscape:menu-tooltip="Oversaturate colors which can be fluorescent in real world"
+       style="color-interpolation-filters:sRGB"
+       id="filter209335"
+       x="-0.11835997"
+       y="-0.24827205"
+       width="1.2367199"
+       height="1.4964226">
+      <feColorMatrix
+         type="hueRotate"
+         values="0"
+         id="feColorMatrix209329" />
+      <feColorMatrix
+         type="saturate"
+         values="1"
+         id="feColorMatrix209331" />
+      <feColorMatrix
+         type="matrix"
+         values="2 -1 0 0 0 0 2 -1 0 0 -1 0 2 0 0 0 0 0 1 0 "
+         id="feColorMatrix209333" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-14.907656,-32.871727)"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.7px;line-height:1.05;font-family:sans-serif;fill:#6e22ae;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="82.958244"
+       y="50.599438"
+       id="text13314"><tspan
+         sodipodi:role="line"
+         id="tspan13312"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Balsamiq Sans';-inkscape-font-specification:'Balsamiq Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#6e22ae;fill-opacity:1;stroke-width:0.264583"
+         x="82.958244"
+         y="50.599438">CREATIVE</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'Balsamiq Sans';-inkscape-font-specification:'Balsamiq Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#9d46c9;fill-opacity:1;stroke-width:0.264583"
+         x="82.958244"
+         y="64.058464"
+         id="tspan13316">ABSTRACT</tspan><tspan
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Balsamiq Sans';-inkscape-font-specification:'Balsamiq Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#6e22ae;fill-opacity:1;stroke-width:0.264583"
+         x="82.958244"
+         y="77.517487"
+         id="tspan13318">COMPETITION</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.46667px;line-height:1.25;font-family:sans-serif;fill:#6c21aa;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="110.66309"
+       y="89.456848"
+       id="text18690"><tspan
+         sodipodi:role="line"
+         id="tspan18688"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.46667px;font-family:'Balsamiq Sans';-inkscape-font-specification:'Balsamiq Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#6c21aa;fill-opacity:1;stroke-width:0.264583"
+         x="110.66309"
+         y="89.456848">@ ISIE 2023 </tspan></text>
+    <g
+       id="g214387"
+       style="stroke-width:1;stroke-miterlimit:10;stroke-dasharray:none">
+      <g
+         id="g214617"
+         style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.9;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1">
+        <path
+           stroke-miterlimit="10"
+           d="m 64.860393,72.932165 c 0,0 0.330663,1.571971 -2.865524,3.381358 -3.196187,1.809387 -4.518838,1.809387 -4.518838,1.809387 0,0 1.818645,-1.983977 1.598424,-2.921076 -0.220222,-0.937098 -3.582401,2.700193 -6.833478,1.598424 0,0 1.094494,-1.052169 1.952895,-3.309273 0.720183,-1.802113 1.426479,-2.373498 1.987944,-2.835765 0,0 -4.436172,-4.711945 -3.278852,-11.325201 0,0 0.495994,-3.141297 2.31464,-5.125274 0,0 -4.078396,5.401047 -10.911873,2.25975 0,0 0.771767,-2.479971 3.857512,-4.57439 3.085745,-2.094418 5.455937,-0.881547 8.321461,-0.937098 2.865524,-0.05489 3.471959,-2.425081 3.471959,-2.425081 0,0 1.983977,1.818645 4.188175,1.10243 2.204199,-0.716216 2.149309,-2.149309 5.401047,-1.10243 3.251738,1.046878 6.006821,4.959942 6.006821,4.959942 0,0 -5.510827,3.52685 -8.486792,-1.708204 0,0 2.645302,6.943919 3.747732,9.258559 1.10243,2.31464 4.959942,13.557176 -9.258559,11.68364"
+           id="path4"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209231)" />
+        <path
+           stroke-miterlimit="10"
+           d="m 66.723347,48.306382 c 0,0 -4.563808,-5.095514 -7.539774,-5.881169 -2.975965,-0.785655 -4.188836,-0.783671 -5.580265,-0.413329 l 1.779627,1.774337 5.261507,5.245635 c 0,0 -5.925478,-7.020633 -12.001077,-5.284653 l 5.644415,7.067587"
+           id="path6"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209239)" />
+        <circle
+           stroke-miterlimit="10"
+           cx="-67.450142"
+           cy="60.091522"
+           r="0.49599424"
+           id="circle8"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209247)"
+           transform="matrix(-1,0,0,1,0,-1.5875)" />
+        <circle
+           stroke-miterlimit="10"
+           cx="-57.420479"
+           cy="61.083511"
+           r="0.49599424"
+           id="circle10"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.7;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209255)"
+           transform="matrix(-1,0,0,1,0,-1.5875)" />
+        <path
+           stroke-miterlimit="10"
+           d="m 68.828347,67.266588 c 0,0 -2.177084,0.495994 -2.397306,2.121532"
+           id="path12"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209263)" />
+        <path
+           stroke-miterlimit="10"
+           d="m 64.175921,69.949586 c 0,0 -1.074654,-1.598424 -3.251738,-1.239986"
+           id="path14"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209271)" />
+        <path
+           stroke-miterlimit="10"
+           d="m 52.747552,60.544213 c 0,0 -1.885439,4.352845 -8.002701,4.242404 -6.117262,-0.110442 -14.659606,2.645302 -15.486263,7.385023 -0.826657,4.739721 0.702328,14.714496 2.741856,15.26538 h 4.078396 l 0.28966,-7.605245 c 0,0 1.377542,1.046878 5.014833,1.046878 3.637291,0 5.621268,-2.425081 5.621268,-2.425081"
+           id="path16"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209223)" />
+        <path
+           stroke-miterlimit="10"
+           d="m 54.637621,76.886231 c 0,0 -4.106171,10.275016 -6.530591,10.550789 h -4.354168 v -6.92408"
+           id="path18"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209279)" />
+        <path
+           stroke-miterlimit="10"
+           d="m 57.475369,78.123571 c 0,0 -3.030855,9.313449 -5.731709,9.313449 -2.700854,0 -3.637291,0 -3.637291,0"
+           id="path20"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209287)" />
+        <polyline
+           stroke-miterlimit="10"
+           points="  65.749,75.742 67.749,85.75 72.167,85.75 "
+           id="polyline22"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:1.3609;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209295)"
+           transform="matrix(-0.66132564,0,0,0.66132564,83.432401,30.728346)" />
+        <path
+           stroke-miterlimit="10"
+           d="m 30.325307,69.899987 c 0,0 -3.270917,2.51965 -5.668223,0.177235 0,0 0.865014,5.262829 4.373347,5.345495"
+           id="path24"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209303)" />
+        <path
+           stroke-miterlimit="10"
+           d="m 64.328026,45.474585 c 0,0 -2.126824,1.869568 -4.937458,1.621571"
+           id="path26"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209311)" />
+        <path
+           stroke-miterlimit="10"
+           d="m 61.06769,43.075957 c 0,0 -0.800865,2.109629 -4.52479,1.866261"
+           id="path28"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209319)" />
+        <path
+           stroke-miterlimit="10"
+           d="m 57.683687,46.517496 c 0,0 -1.495919,2.802037 -5.329623,1.876181"
+           id="path30"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209327)" />
+        <path
+           stroke-miterlimit="10"
+           d="m 54.317539,44.287506 c 0,0 -0.566756,1.956201 -3.801961,1.804096"
+           id="path32"
+           inkscape:connector-curvature="0"
+           style="fill:#000000;fill-opacity:0;stroke:#6a3a97;stroke-width:0.9;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter209335)" />
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="97.098198"
+       y="121.29402"
+       id="text39253"><tspan
+         sodipodi:role="line"
+         id="tspan39251"
+         style="stroke-width:0.264583"
+         x="97.098198"
+         y="121.29402" /></text>
+    <g
+       id="g219943">
+      <path
+         style="color:#000000;fill:#6e22ae;-inkscape-stroke:none"
+         d="m 14.908203,32.871094 v 0.458984 67.222652 H 180.33594 V 32.871094 Z m 0.916016,0.917968 164.511721,-0.917968 -0.91797,66.765625 -164.509767,0.916011 z"
+         id="path221685"
+         sodipodi:nodetypes="ccccccccccc" />
+    </g>
+  </g>
+</svg>
