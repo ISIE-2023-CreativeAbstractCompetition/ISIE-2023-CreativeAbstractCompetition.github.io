@@ -171,3 +171,14 @@
   transition: transform 0.3s ease;
   border-width: 0px;
 }
+
+
+.glightbox-preview {
+  width: 400px;
+  height: 300px;
+}
+
+.glightbox-preview-link {
+  width: 400px;
+  height: 300px;
+}
