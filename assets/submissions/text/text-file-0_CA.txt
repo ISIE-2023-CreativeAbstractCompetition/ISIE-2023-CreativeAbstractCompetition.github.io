@@ -1,0 +1,18 @@
+Title: The Coding Sea
+Author: Jane Doe
+Description: A sea shanty about the adventures of programmers sailing the seas of code.
+
+
+Verse 1: Come all ye programmers, and listen to me I'll sing you a song of the coding sea Where the waves are made of data and the wind is code And the only thing that matters is the program you wrote
+
+Chorus: Oh ho, the programming life for me Where the code is clean and the bugs are free From Java to Python, C++ to PHP It's a world of endless possibility
+
+Verse 2: We sail the seas of syntax, with our keyboards in hand Writing lines of code that will rule the land We debug and we test, until it's just right And then we launch our program into the night
+
+Chorus: Oh ho, the programming life for me Where the code is clean and the bugs are free From Java to Python, C++ to PHP It's a world of endless possibility
+
+Verse 3: We work in teams, with our eyes on the prize Building software that will change people's lives We collaborate and we innovate Until our program is truly great
+
+Chorus: Oh ho, the programming life for me Where the code is clean and the bugs are free From Java to Python, C++ to PHP It's a world of endless possibility
+
+Outro: So come all ye programmers, and join me in song As we sail the seas of code, where we belong For the programming life is a life of adventure A journey of discovery, that will never end, ever.
