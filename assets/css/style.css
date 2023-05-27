@@ -182,3 +182,30 @@
   width: 400px;
   height: 300px;
 }
+
+.image-container {
+  display: flex;
+  max-width: 60%;
+  height: auto;
+  padding: 10px;
+  object-fit: contain;
+  margin: 0 auto; 
+}
+
+.small-image {
+  flex: 1;
+  max-width: 10%;
+  height: auto;
+  padding: 10px;
+  object-fit: contain;
+
+}
+
+
+.large-image {
+  flex: 2;
+  max-width: 100%;
+  height: auto;
+  padding: 10px;
+  object-fit: contain;
+}
