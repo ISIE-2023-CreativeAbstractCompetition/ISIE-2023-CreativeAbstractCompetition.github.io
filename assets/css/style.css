@@ -209,3 +209,20 @@
   padding: 10px;
   object-fit: contain;
 }
+
+.title {
+  font-size: 1.5rem;
+}
+
+@media (max-width: 768px) {
+  .title {
+    font-size: 0.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .people-grid {
+    flex-direction: column;
+  }
+}
+
