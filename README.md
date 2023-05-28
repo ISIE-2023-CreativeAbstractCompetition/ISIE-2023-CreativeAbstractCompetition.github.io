@@ -5,11 +5,10 @@ The website is designed to showcase the abstracts submitted to the competition a
 
 ## Features
 
-- Visual gallery of abstracts with lightbox preview
+- Visual gallery of abstracts with lightbox preview (needs work)
 - About page with information about the competition and its organizers
 - Submit page with instructions for submitting abstracts
 - People page with profiles of the competition organizers
-- Responsive design for optimal viewing on desktop and mobile devices
 
 ## Technologies Used
 
