@@ -2,6 +2,42 @@
 <html lang="en">
 
 <head>
+  <!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-EBK1DVWG79"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-EBK1DVWG79');
+</script>
+  <meta name="google-site-verification" content="lnpPyETQKBel4PmP0A9Ep8qqqfuzvb8Hr-AqWCYGoKU" />
+  <style>
+    /* Styles for small screens */
+    @media (max-width: 767px) {
+      .large-image {
+        display: none;
+      }
+    
+      .small-image {
+        display: block;
+      }
+    }
+  
+    /* Styles for larger screens */
+    @media (min-width: 768px) {
+      .large-image {
+        display: block;
+      }
+    
+      .small-image {
+        display: none;
+      }
+    }
+  </style>
+  
+
+
   <meta charset="utf-8" />
   <meta content="width=device-width, initial-scale=1.0" name="viewport" />
 
@@ -58,7 +94,19 @@
       </nav>
 
       <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
-      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
+      <i class="m<script>
+        window.addEventListener('resize', function() {
+          var image = document.getElementById('image');
+          var smallImageSrc = 'assets/img/logo_text_stacked_mobile.png';
+          var largeImageSrc = 'assets/img/logo_text_stacked.png';
+        
+          if (window.innerWidth < 768) {
+            image.src = smallImageSrc;
+          } else {
+            image.src = largeImageSrc;
+          }
+        });
+      </script>obile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
     </div>
   </header>
   <!-- End Header -->
@@ -67,12 +115,14 @@
     <div class="page-header d-flex align-items-center">
       <div class="container position-relative">
         <div class="row d-flex justify-content-center">
-          <div class="text-center" , style="padding-bottom: 30px">
+          <div class="text-center" style="padding-bottom: 30px">
             <br></br>
             <div class="image-container">
-              <img src="assets/img/logo_text_stacked.png" alt="Creative Abstract Competition" class="large-image" />
+              <img src="assets/img/logo_text_stacked.png" alt="Creative Abstract Competition" id="image" />
             </div>
           </div>
+
+  
           <div class="col-lg-12 text-center">
             <a href="assets/ISIE2023_CreativeAbstractCompetition.pdf" class="btn btn-primary btn-lg" role="button"
               style="
@@ -104,16 +154,18 @@
 
               </div>
 
-              <a href="submit.html" class="btn btn-primary" role="button" style="
-                    --bs-btn-padding-y: 0.5rem;
-                    --bs-btn-padding-x: 1rem;
-                    --bs-btn-font-size: 1rem;
-                  ">SUBMIT YOUR WORK</a>
-              <a href="gallery.html" class="btn btn-primary btn-lg ms-3" role="button" style="
-                    --bs-btn-padding-y: 0.5rem;
-                    --bs-btn-padding-x: 1rem;
-                    --bs-btn-font-size: 1rem;
-                  ">VIEW SUBMISSIONS</a>
+              <div class="d-flex flex-column justify-content-center align-items-center">
+                <a href="submit.html" class="btn btn-primary mb-3" role="button" style="
+                      --bs-btn-padding-y: 0.5rem;
+                      --bs-btn-padding-x: 1rem;
+                      --bs-btn-font-size: 1rem;
+                    ">SUBMIT YOUR WORK</a>
+                <a href="gallery.html" class="btn btn-primary btn-lg mb-3" role="button" style="
+                      --bs-btn-padding-y: 0.5rem;
+                      --bs-btn-padding-x: 1rem;
+                      --bs-btn-font-size: 1rem;
+                    ">VIEW SUBMISSIONS</a>
+              </div>
             </div>
           </div>
         </div>
@@ -146,6 +198,21 @@
 
   <!-- Template Main JS File -->
   <script src="assets/js/main.js"></script>
+  <script>
+    window.addEventListener('resize', function() {
+      var image = document.getElementById('image');
+      var smallImageSrc = 'assets/img/logo_text_circle.png';
+      var largeImageSrc = 'assets/img/logo_text_stacked.png';
+    
+      if (window.innerWidth < 768) {
+        image.src = smallImageSrc;
+      } else {
+        image.src = largeImageSrc;
+      }
+    });
+  </script>
+
+
 </body>
 
 </html>
