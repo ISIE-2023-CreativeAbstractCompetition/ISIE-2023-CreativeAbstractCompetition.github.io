@@ -115,7 +115,7 @@
   cursor: pointer;
   transition: background 0.3s ease;
   background: #00000000;
-  color: #461717;
+  color: var(--color-primary);
   border-radius: 0px;
   border: none;
   outline: none;
@@ -166,7 +166,7 @@
 .accordion-item:collapsed .accordion-button {
   background-color: #f8d7da;
   border-color: #f5c6cb;
-  color: #721c24;
+  color: var(--color-red);
 }
 
 .accordion-button:hover {

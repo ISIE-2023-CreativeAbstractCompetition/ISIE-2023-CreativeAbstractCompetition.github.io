@@ -19,6 +19,11 @@
   --color-reddark:  #e6185273;
   --color-light-blue:  #005972;
   --color-bg: #003c4d;
+  --color-squash: #DA9B00;
+  --color-tertiary: #DA9B00;
+  --color-adobe: #C8673B;
+  --color-grey: #B0B0B0;
+  
 }
 
 /* Smooth scroll behavior */
@@ -65,7 +70,8 @@ h1 {
 h2 {
   font-size: x-large;
   font-weight: 300;
-  margin-bottom: 15px;  
+  margin-bottom: 15px;
+  color: var(--color-white);
 }
 
 h3,
@@ -133,7 +139,7 @@ h6 {
 # Page Header
 --------------------------------------------------------------*/
 .page-header {
-  padding: 80px 0 60px 0;
+  padding: 80px 0 20px 0;
   min-height: 30vh;
   position: relative;
 }
@@ -717,7 +723,7 @@ h6 {
 
 .footer-link {
   text-align: center;
-  color: var(--color-lime)
+  color: var(--color-squash)
 }
 
 

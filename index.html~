@@ -115,7 +115,7 @@
               <p>July 2-5, 2023 in Leiden, Netherlands</p>
               <div class="container">
                 <div class="row gy-4 justify-content-center">
-                  <h6 style="color: green">
+                  <h6 style="--color-squash: #DA9B00">
                     We invite researchers to challenge themselves to spark
                     interest in their research and make their results more
                     accessible by producing a creative abstract in a text,
@@ -160,7 +160,7 @@
           Conference on Industrial Ecology</span
         ></strong
       >
-      <div class="footer-link">
+      <div class="footer-link" style='color:var(--color-grey)'>
       <a href="index.html">Home -</a>
       <a href="about.html"> About -</a>
       <a href="gallery.html"> Gallery -</a>
