@@ -229,6 +229,16 @@
 
 }
 
+.medium-image {
+  display: flex;
+  flex: 2;
+  max-width: 50%;
+  height: auto;
+  padding: 10px;
+  object-fit: scale-down;
+
+}
+
 
 .large-image {
   display: flex;
