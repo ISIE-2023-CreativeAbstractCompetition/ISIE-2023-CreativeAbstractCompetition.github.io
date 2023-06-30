@@ -53,7 +53,7 @@ for row in rows:
         description=row['Short description of creative abstract'],
         abstract=row['Official ISIE abstract'],
         email=row['Email'],
-        time=row['Tijdstempel'],
+        time=row['Zeitstempel'],
         image="../"+jpg
     )
 
