@@ -121,7 +121,7 @@ template = """
 
                     </div>
                     <iframe src="https://drive.google.com/file/d/{id}/preview" width="640" height="480" allow="autoplay"></iframe>
-                                            <h4><strong>Scientific abstract:</strong></h4>
+                        <h4><strong>Scientific abstract:</strong></h4>
                         <p style="color: black">{abstract}</p>
                     </div>
 
