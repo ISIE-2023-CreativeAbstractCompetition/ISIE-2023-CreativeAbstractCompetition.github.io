@@ -30,6 +30,9 @@
             height: 500px;
             margin: 20px 0;
         }
+        body {
+            color: black;
+        }
 
     </style>
   <!-- Favicons -->
@@ -91,12 +94,72 @@
                         
 
                         <h4><strong>Creative abstract:</strong></h4>
-                        <p style="color: black"></p>
+                        <h3>Sonnet: <br> O Waste, O Waste</h3>
+                        <p> 
+                            O waste, O waste, wherefore art thou?<br>
+                            In circular dreams, we seek thy trace.<br>
+                            To quantify thy flow, we must avow<br>
+                            Life Cycle Assessment, a tool of grace.
+                        </p>
+                        <p>
+                            With eyes upon hotspots, we aim to find<br>
+                            The impact lurking through each product's span.<br>
+                            To guide us, Ecoinvent 3.9 we bind,<br>
+                            For waste's score, a measure in our plan.
+                        </p>
+                        <p>
+                            Yet, lacking methods, flexibility wanes,<br>
+                            Hazardous materials, pathways unknown.<br>
+                            To prioritize research, our effort strains,<br>
+                            Circularity's opportunities to own.
+                        </p>
+                        <p>
+                            In Python's realm, a tool we create,<br>
+                            To aggregate waste's mass and volume's fate.
+                        </p>
+                        <p>
+                            With flexible categories, waste we define,<br>
+                            End-of-Life handling, types to discern.<br>
+                            Through Ecoinvent's embrace, our hope aligns,<br>
+                            To calculate footprint, lessons we learn.
+                        </p>
+                        <p>
+                            Hotspots revealed, contributions clear,<br>
+                            Sankey diagrams and analysis guide.<br>
+                            In this crucial step, we persevere,<br>
+                            To evaluate circular potential's stride.
+                        </p>
+                        <p>
+                            Ecoinvent's exchanges, waste they produce,<br>
+                            Categorized and mapped with great care.<br>
+                            As biosphere clones, their impact we deduce,<br>
+                            Matching footprints for products to compare.
+                        </p>
+                        <p>
+                            Battery types, our test case shines,<br>
+                            Unveiling waste's hotspots, their origins known.<br>
+                            Uncertain EOL pathways, future designs,<br>
+                            Algorithm's prediction, a path to be shown.
+                        </p>
+                        <p>
+                            O waste, O waste, we seek your grace,<br>
+                            To capture circularity's rightful place.
+                        </p>
 
                     </div>
                     <!-- <iframe src="https://drive.google.com/file/d/1JTmaXzHXjVJ6FuY13hg65_0pE0aZAYXK/preview" width="640" height="480" allow="autoplay"></iframe> -->
                                             <h4><strong>Scientific abstract:</strong></h4>
-                        <p style="color: black"></p>
+                                            <p>As the European Union and other governmental bodies strive to transition toward a circular economy — a concept focused on the prevention of waste and the reuse of resources — appropriate tools to identify and quantify waste flows through supply chains are of critical importance. Life Cycle Assessment (LCA) is a crucial tool for this, given its capacity to pinpoint hotspots of environmental impact throughout the life cycle of products and services, those where the implementation of circular principles could be most effective.</p>
+
+                                            <p>Methods of calculating an impact factor based on an aggregated waste score for a given functional unit are newly available in Ecoinvent 3.9 (FOEN (ed.)., 2021). However, the lack of standard methods allowing for a flexible quantification of specific waste types across datasets, such as hazardous materials or materials with particular End-of-Life (EOL) pathways (e.g., incineration, composting, or open-burning), limits our ability to effectively prioritise further research and to develop strategies to capture circularity opportunities. The authors believe that a detailed mapping of waste flows could inform strategies for environmental impact reduction, since waste production contributes strongly to overall environmental impacts (Reinhard et.al., 2019).</p>
+                                            
+                                            <p>In this study, we present a Python-based tool that enables the aggregation of mass and volume for all waste exchanges, and the creation of flexible categories to differentiate between waste types and End-of-Life (EOL) handling using (in this case) the Ecoinvent 3.9 cutoff database.</p>
+                                            
+                                            <p>This tool provides a method for the calculation of waste footprint impact category results, differentiated by the type of waste handling. Furthermore, the tool facilitates rapid investigation and identification of waste hotspots, enabled by standard contribution analysis and Sankey diagram visualisation tools. The authors consider this a crucial step in addressing the deficit of Life Cycle Assessment (LCA) methods that consider waste flows in the evaluation of a product or process’ circular economy potential.</p>
+                                            
+                                            <p>We identified all Ecoinvent technosphere exchanges that produce waste and further classified them into non-mutually exclusive categories, such as its destination (i.e. dumped, incinerated, etc.), hazardousness, and form (solid vs. liquid). To quantify the waste footprint of a product, we cloned the technosphere exchanges as biosphere exchanges and aggregated them into matching impact categories in the Life Cycle Impact Assessment. This enabled us to compare waste footprints across products and identify hotspots of waste linked to particular life cycle processes.</p>
+                                            
+                                            <p>In our simplified test case of six battery types, we were able to identify ‘waste hotspots’ and distinguish the major sources of contribution to waste generation on a process-level. One conspicuous result from the case study (and potential direction for further work) is that many waste flows are tied to processes lacking a clear EOL pathway. Further development of this tool could involve developing an algorithm using identifiers of each background waste process to predict where these uncategorised wastes land in their EOL management.</p>
                     </div>
 
     </div>
