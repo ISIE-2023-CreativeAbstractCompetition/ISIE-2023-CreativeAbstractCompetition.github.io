@@ -142,7 +142,7 @@ for row in rows:
         # Generate the QR code
     img = qrcode.make(url)
     # Save the QR code image to a file
-    img.save("qrcode.png")
+    img.save(row['Full name']+"qrcode.png")
 
     ID = url.split('&id=')[1].split('&')[0]
     url = f"https://drive.google.com/uc?export=download&id={ID}"
