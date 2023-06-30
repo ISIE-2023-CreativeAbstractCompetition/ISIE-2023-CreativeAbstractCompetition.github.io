@@ -259,3 +259,8 @@
     font-size: 0.5rem;
   }
 }
+
+iframe {
+  width: 60%;
+}
+
