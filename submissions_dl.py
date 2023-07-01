@@ -28,40 +28,6 @@ template = """
 <!DOCTYPE html>
 <html lang="en">
 
-<head>
-  <meta charset="utf-8">
-  <title>{name} - Creative Abstract Competition @ ISIE 2023</title>
-  <meta content="This is the official website for the Creative Abstract Competition at ISIE 2023. Submit your abstracts and view entries here!" name="description" />
-  <meta content="Creative Abstract Competition, ISIE 2023, Industrial Ecology, Leiden University, abstracts, entries" name="keywords" />
-      <style>
-        body {{
-            margin: 0;
-            padding: 0;
-            font-family: Arial, sans-serif;
-            background-color: rgba(0, 0, 0, 0.87);
-        }}
-        .container {{
-            max-width: 75%;
-            margin: 0 auto;
-            padding: 20px;
-            box-sizing: border-box;
-            background-color: #fff;
-            box-shadow: 0px 0px 10px 0px rgba(255, 255, 255, 0.5);
-        }}
-        h1, h2, h3, h4 {{
-            color: rgb(0, 0, 0);
-        }}
-        iframe {{
-            max-width: 100%;
-            height: 500px;
-            margin: 20px 0;
-        }}
-
-    </style>
-  <!-- Favicons -->
-  <link href="assets/img/logo_tiny.png" rel="icon" />
-  <link href="assets/img/logo_tiny.png" rel="apple-touch-icon" />
-
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -82,26 +48,6 @@ template = """
   <link href="../assets/css/style.css" rel="stylesheet" />
 
 </head>
-  <header id="header" class="header d-flex align-items-center fixed-top">
-    <div class="container-fluid d-flex align-items-center justify-content-between">
-      <a href="../index.html" class="logo d-flex align-items-center me-auto me-lg-0">
-        <h1 class="title">Creative Abstract Competition @ ISIE 2023</h1>
-      </a>
-      <nav id="navbar" class="navbar">
-        <ul>
-          <li><a href="../index.html" >Home</a></li>
-          <li><a href="../about.html">About</a></li>
-          <li><a href="../gallery.html"class="active">View entries</a></li>
-          <li><a href="../submit.html">Submit</a></li>
-          <li><a href="../prizes.html">Prizes</a></li>
-          <li><a href="../people.html">People</a></li>
-        </ul>
-      </nav>
-
-      <i class="mobile-nav-toggle mobile-nav-show bi bi-list"></i>
-      <i class="mobile-nav-toggle mobile-nav-hide d-none bi bi-x"></i>
-    </div>
-  </header>
 <body>
   <!-- End Header -->
 

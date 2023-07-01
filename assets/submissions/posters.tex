@@ -1,0 +1,43 @@
+\documentclass{article}
+\usepackage[margin=1cm]{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+
+% Define the HTML template
+\newcommand{\entry}[8]{%
+  \begin{center}
+    \textbf{\LARGE #2}\\[1ex]
+    \textbf{\Large #1}\\[1ex]
+    \textbf{\large #3}\\[1ex]
+    \textbf{ISIE abstract number: #4}\\[1ex]
+    \textbf{Category: #5}\\[1ex]
+    \textbf{Short description of creative abstract:}\\[1ex]
+    #6\\[1ex]
+    \textbf{Official ISIE abstract:}\\[1ex]
+    #7\\[1ex]
+  \end{center}
+  \clearpage
+}
+
+\begin{document}
+
+% Load the data from the CSV file
+\begin{center}
+  \textbf{\Huge Creative Abstract Competition @ ISIE 2023}\\[1ex]
+\end{center}
+\input{Creative Abstract Competition - ISIE 2023 - Submission form.csv}
+
+% Generate an A3 page for each row in the CSV
+\entry{\Full name}{\Submission Title}{\Submission Category}{\ISIE abstract number}{\Category}{\Short description of creative abstract}{\Official ISIE abstract}{\Upload your file}
+\entry{\Full name}{\Submission Title}{\Submission Category}{\ISIE abstract number}{\Category}{\Short description of creative abstract}{\Official ISIE abstract}{\Upload your file}
+\entry{\Full name}{\Submission Title}{\Submission Category}{\ISIE abstract number}{\Category}{\Short description of creative abstract}{\Official ISIE abstract}{\Upload your file}
+\entry{\Full name}{\Submission Title}{\Submission Category}{\ISIE abstract number}{\Category}{\Short description of creative abstract}{\Official ISIE abstract}{\Upload your file}
+\entry{\Full name}{\Submission Title}{\Submission Category}{\ISIE abstract number}{\Category}{\Short description of creative abstract}{\Official ISIE abstract}{\Upload your file}
+\entry{\Full name}{\Submission Title}{\Submission Category}{\ISIE abstract number}{\Category}{\Short description of creative abstract}{\Official ISIE abstract}{\Upload your file}
+\entry{\Full name}{\Submission Title}{\Submission Category}{\ISIE abstract number}{\Category}{\Short description of creative abstract}{\Official ISIE abstract}{\Upload your file}
+\entry{\Full name}{\Submission Title}{\Submission Category}{\ISIE abstract number}{\Category}{\Short description of creative abstract}{\Official ISIE abstract}{\Upload your file}
+\entry{\Full name}{\Submission Title}{\Submission Category}{\ISIE abstract number}{\Category}{\Short description of creative abstract}{\Official ISIE abstract}{\Upload your file}
+\entry{\Full name}{\Submission Title}{\Submission Category}{\ISIE abstract number}{\Category}{\Short description of creative abstract}{\Official ISIE abstract}{\Upload your file}
+\entry{\Full name}{\Submission Title}{\Submission Category}{\ISIE abstract number}{\Category}{\Short description of creative abstract}{\Official ISIE abstract}{\Upload your file}
+
+\end{document}
