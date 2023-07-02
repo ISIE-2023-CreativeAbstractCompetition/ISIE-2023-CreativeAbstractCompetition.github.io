@@ -22,30 +22,31 @@ template = """
   <title>{title}</title>
   <style>
     body {{
-      font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-      font-size: 26px;
-      line-height: 1.5;
+      font-family: serif;
+      font-size: 22px;
+      line-height: 1.2;
       text-align: center;
+      margin: 1.0em;
     }}
     h1 {{
       font-size: 46px;
       margin-top: 2em;
-      margin-bottom: 0.5em;
+      margin-bottom: 0.2em;
     }}
     h2 {{
       font-size: 34px;
       margin-top: 0.5em;
-      margin-bottom: 0.5em;
+      margin-bottom: 0.2em;
     }}
     h3 {{
       font-size: 30px;
       margin-top: 1em;
-      margin-bottom: 0.5em;
+      margin-bottom: 0.2em;
     }}
     p {{
       font-size: 25px;
       margin-top: 0.5em;
-      margin-bottom: 1em;
+      margin-bottom: 0.5em;
     }}
     iframe {{
       margin-top: 1em;
@@ -65,7 +66,7 @@ template = """
   <h2>{institution}</h2>
   <h3>ISIE abstract number: {isie}</h3>
   <h3>Category: {category}</h3>
-  <h3>Creative abstract:</h3>
+  <h3>Creative abstract description:</h3>
   <p>{description}</p>
   <h3>Official ISIE abstract:</h3>
   <p>{abstract}</p>
