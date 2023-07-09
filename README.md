@@ -1,4 +1,5 @@
 # ISIE2023 Creative Abstract Competition Website
+#### Created by Stewart Charles McDowall: on github as [Stew-McD](https://GitHub.com/Stew-McD)
 
 This is the official website for the Creative Abstract Competition at the ISIE2023 - 11th International Conference on Industrial Ecology. 
 The website is designed to showcase the abstracts submitted to the competition and provide information about how to submit an entry.
@@ -20,8 +21,6 @@ The website is built using the following technologies:
 - CSS
 - JavaScript
 - Bootstrap
-- Swiper.js
-- GLightbox.js
 - AOS.js
 
 ## Contributing
