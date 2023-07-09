@@ -3,6 +3,8 @@
 This is the official website for the Creative Abstract Competition at the ISIE2023 - 11th International Conference on Industrial Ecology. 
 The website is designed to showcase the abstracts submitted to the competition and provide information about how to submit an entry.
 
+If you would like to make your own competition, it is easy to fork this repository and modify the content to suit your needs. Send me a message, I would be happy to help!
+
 ## Features
 
 - Visual gallery of abstracts with lightbox preview (needs work)
